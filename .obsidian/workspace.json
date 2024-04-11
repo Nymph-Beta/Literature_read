@@ -1,0 +1,155 @@
+{
+  "main": {
+    "id": "7699992f54408ad7",
+    "type": "split",
+    "children": [
+      {
+        "id": "7e054abaff8e8486",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6463fc191d5290d6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "IEEE Symposium on Security and Privacy/D-DAE_Defense-Penetrating_Model_Extraction_Attacks.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "73f9cf2227556d34",
+    "type": "split",
+    "children": [
+      {
+        "id": "0be5d615a4391506",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "413137d87b1b805f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f42652fb47a72473",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5bded855b51c794a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "1a4fcad6dce0d331",
+    "type": "split",
+    "children": [
+      {
+        "id": "35d8c1790c09ebd7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7472c43b52cf29c1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "IEEE Symposium on Security and Privacy/D-DAE_Defense-Penetrating_Model_Extraction_Attacks.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "901ecf58a175a748",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "IEEE Symposium on Security and Privacy/D-DAE_Defense-Penetrating_Model_Extraction_Attacks.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "25d15c54a532e746",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "48d0a23c3bf57cae",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "IEEE Symposium on Security and Privacy/D-DAE_Defense-Penetrating_Model_Extraction_Attacks.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "6463fc191d5290d6",
+  "lastOpenFiles": [
+    "IEEE Symposium on Security and Privacy/D-DAE_Defense-Penetrating_Model_Extraction_Attacks.pdf",
+    "IEEE Symposium on Security and Privacy/D-DAE_Defense-Penetrating_Model_Extraction_Attacks.md",
+    "IEEE Symposium on Security and Privacy/SoK_Cryptographic_Neural-Network_Computation.pdf"
+  ]
+}
